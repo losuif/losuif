@@ -32,7 +32,7 @@
 
 <br><br>
 
-![Jinsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=losuif&theme=panda&show_icons=true)
+![Jinsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=losuif&theme=radical&show_icons=true)
 
 <br><br>
 
